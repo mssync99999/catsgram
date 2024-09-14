@@ -16,7 +16,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CatsgramApplication {
     public static void main(String[] args) {
         SpringApplication.run(CatsgramApplication.class, args);
-
        /* final Gson gson = new Gson();
         final Scanner scanner = new Scanner(System.in);
         System.out.print("Введите JSON => ");
